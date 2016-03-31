@@ -3,3 +3,5 @@ use master
 go
 
 select @@version
+
+select @@DATEFIRST
