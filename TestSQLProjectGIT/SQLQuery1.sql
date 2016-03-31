@@ -5,3 +5,4 @@ go
 select @@version
 
 select @@DATEFIRST
+--lkslkas
